@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryadip</h1>
-<h3 align="center">A enthusiastic Programmer who loves to explore Tech.</h3>
+<h3 align="center">An enthusiastic Programmer who loves to explore Tech.</h3>
 
 - 💬 Ask me about **Tech, Programming, Python**
 
